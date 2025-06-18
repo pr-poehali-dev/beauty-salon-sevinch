@@ -53,7 +53,7 @@ const Hero = () => {
 
         <div className="mt-12 grid grid-cols-3 gap-8 max-w-xl mx-auto">
           <div className="text-center">
-            <div className="text-2xl font-bold text-purple-600">5+</div>
+            <div className="text-2xl font-bold text-purple-600"></div>
             <div className="text-sm text-gray-600">лет опыта</div>
           </div>
           <div className="text-center">

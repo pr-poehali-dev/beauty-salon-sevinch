@@ -47,7 +47,7 @@ const Hero = () => {
             size="lg"
             className="border-purple-600 text-purple-600 hover:bg-purple-50 text-lg px-8 py-4"
           >
-            +79670666757
+            +7 (967) 066-67-57
           </Button>
         </div>
 

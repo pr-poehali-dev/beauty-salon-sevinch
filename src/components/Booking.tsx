@@ -56,7 +56,7 @@ const Booking = () => {
                 className="w-full border-blue-600 text-blue-600 hover:bg-blue-50"
               >
                 <Icon name="Phone" className="mr-2" size={18} />
-                +7 (XXX) XXX-XX-XX
+                +7 (967) 066-67-57
               </Button>
             </CardContent>
           </Card>

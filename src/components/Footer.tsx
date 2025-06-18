@@ -51,7 +51,7 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Контакты</h4>
             <ul className="space-y-2 text-gray-400">
               <li>📍 г. Ташкент, ул. Примерная, 123</li>
-              <li>📞 +7 (XXX) XXX-XX-XX</li>
+              <li>📞 +7 (967) 066-67-57</li>
               <li>🕒 Пн-Пт: 9:00-21:00</li>
               <li>🕒 Сб-Вс: 10:00-20:00</li>
             </ul>

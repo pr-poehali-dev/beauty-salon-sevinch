@@ -47,8 +47,7 @@ const Hero = () => {
             size="lg"
             className="border-purple-600 text-purple-600 hover:bg-purple-50 text-lg px-8 py-4"
           >
-            <Icon name="Phone" className="mr-2" size={20} />
-            +7 (XXX) XXX-XX-XX
+            +79670666757
           </Button>
         </div>
 

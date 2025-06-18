@@ -14,7 +14,7 @@ const Services = () => {
       category: "Мужские услуги",
       icon: "User",
       services: [
-        { name: "Мужская стрижка", price: "от 800₽", duration: "45 мин" },
+        { name: "Мужская стрижка", price: "от 700₽", duration: "45 мин" },
         { name: "Стрижка бороды", price: "от 600₽", duration: "30 мин" },
         {
           name: "Комплекс (стрижка + борода)",
